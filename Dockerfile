@@ -1,6 +1,6 @@
 FROM python
 
-MAINTAINER jenkins@pipeline
+MAINTAINER jenkins@pipeline1
 
 ADD . /test
 
