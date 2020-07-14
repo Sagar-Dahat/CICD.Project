@@ -1,6 +1,6 @@
 FROM python
 
-MAINTAINER jenkins@workernode
+MAINTAINER jenkins@pipeline
 
 ADD . /test
 
